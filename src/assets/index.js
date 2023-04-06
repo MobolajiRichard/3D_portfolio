@@ -20,15 +20,8 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
 import geeky from "./geeky.png";
 import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
 import techtime from "./techtime.png";
 import lernen from "./lerneb-white.png";
 import message from "./messageme.png";
@@ -37,7 +30,6 @@ import budget from "./budget.png";
 import babyme from "./babyme.png";
 import artisto from "./artisto.png";
 import imggen from "./imagegenerator.png";
-import paypal from "./mypaypal.png";
 import dev from "./dev.png";
 import google from "./google.png";
 import website from "./website.png";
@@ -55,7 +47,6 @@ export {
   babyme,
   artisto,
   imggen,
-  paypal,
   logo,
   backend,
   creator,
@@ -77,11 +68,5 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
+  carrent
 };

@@ -7,7 +7,6 @@ import {
   babyme,
   artisto,
   imggen,
-  paypal,
   google,
   mobile,
   backend,
@@ -26,14 +25,7 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
   geeky,
-  shopify,
-  carrent,
-  jobit,
-  tripguide,
   threejs,
 } from "../assets";
 

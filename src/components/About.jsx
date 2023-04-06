@@ -84,7 +84,7 @@ const About = () => {
         ))}
       </div>
       <motion.div
-      onClick={downloadCV}
+        onClick={downloadCV}
         variants={cv_variants}
         whileHover="hover"
         className="self-center mt-32 green-pink-gradient rounded-xl shadow-card px-10 p-5 cursor-pointer"
